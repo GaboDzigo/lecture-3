@@ -1,0 +1,95 @@
+/* HEADER NAVIGATION */
+.nav-a {
+  color:#3D58A6;
+  font-size: 22px;
+  text-decoration: none;
+  display: inline-block;
+}
+.nav-a-active {
+    color:#EE4036;
+}
+.nav-wrapper,
+.nav-ul-li {
+  display: inline-block;
+ margin:10px;
+}
+/* END HEADER NAVIGATION */
+
+/* contact.html start */
+.div-contact-info {
+  text-align: center;
+  
+}
+.h3-contact-info {
+  color: #3D58A6;
+}
+.span-1-adress,
+ .span-2-tel,
+ .span-3-email{
+  color: #3f473b;
+}
+/* contact-html end */
+/* news.html-article 1 start */
+.img-1 {
+  margin-right: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.div-p1 {
+  display: inline-block;
+  width:930px;
+  vertical-align: top;
+}
+
+
+/* news.html-article 1 end */
+/* news.html-article 2 start */
+.img-2 {
+  margin-right: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.div-p2 {
+  display: inline-block;
+  width:930px;
+  vertical-align: top;
+}
+/* news.html-article 2 end */
+
+/* news.html-article 3 start */
+.img-3 {
+  margin-right: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.div-p3 {
+  display: inline-block;
+  width:930px;
+  vertical-align: top;
+}
+/* news.html-article 3 end */
+
+/* Layout Properties */
+.div-27 {
+  top: 658px;
+  left: 34px;
+  width: 46px;
+  height: 55px;
+}
+
+/* UI Properties */
+.div-27 {
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  background-color: #3D58A6;
+}
+ 
+/* 27-wrapper */
+.h1-27 {
+  font-size: 47px;
+}
+/* 27-wrapper end */
